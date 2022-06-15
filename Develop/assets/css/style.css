@@ -1,8 +1,11 @@
+/*universal selector*/
 * {
     box-sizing: border-box;
     padding: 0;
     margin: 0;
 }
+/*element selectors*/
+
 /* changes color for easier reading*/
 body {
     background-color: #d9dcd6;
@@ -18,6 +21,8 @@ a {
 p {
     font-size: 16px;
 }
+
+/* class selectors */
 
 /* places additional content to the right of the screen*/
 .benefits {
